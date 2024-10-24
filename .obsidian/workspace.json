@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "933cd16809cec576",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab8f3f093d9ab7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8bc37718b84e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enumeration/SNMP Enumeration/SNMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SNMP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a69709a8b15c312",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef82f9dce508477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa3d23460d2086b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a06e97e765518ff2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "747badb0d7f313b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a2b3abf8eae2d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd214023c855ef20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f663406c4ceea81c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Enumeration/LDAP Enumeration/LDAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LDAP"
+            }
+          },
+          {
+            "id": "cdac03ac0f52de4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Enumeration/LDAP Enumeration/LDAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LDAP"
+            }
+          },
+          {
+            "id": "fe75392aca8e8562",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c849bbd561609bdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Enumeration/LDAP Enumeration/LDAP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LDAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cfa3d23460d2086b",
+  "lastOpenFiles": [
+    "Enumeration/SNMP Enumeration/Pasted image 20241024010221.png",
+    "Enumeration/LDAP Enumeration/LDAP.md",
+    "Enumeration/SNMP Enumeration/SNMP.md",
+    "Enumeration/SNMP Enumeration",
+    "2024-10-23.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Enumeration/NetBIOS Enumeration/NetBios enumeration.md",
+    "Enumeration/LDAP Enumeration",
+    "Untitled",
+    "Enumeration/NetBIOS Enumeration/Pasted image 20241023005746.png",
+    "Enumeration/NetBIOS Enumeration/Pasted image 20241023005738.png",
+    "Enumeration/NetBIOS Enumeration",
+    "Enumeration"
+  ]
+}
