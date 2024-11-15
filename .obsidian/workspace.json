@@ -11,17 +11,14 @@
             "id": "0b8ed18bf044b0d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Subnets/Subnets.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Subnets"
             }
           }
         ]
@@ -76,12 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a2b3abf8eae2d0e",
@@ -168,6 +165,9 @@
   },
   "active": "0b8ed18bf044b0d2",
   "lastOpenFiles": [
+    "Subnets/Subnets.md",
+    "Untitled.md",
+    "Subnets",
     "2024-10-31.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -179,9 +179,7 @@
     "Enumeration/NTP Enumeration",
     "Enumeration/DNS Enumeration/DNS.md",
     "Enumeration/DNS Enumeration/Untitled",
-    "Untitled.md",
     "Enumeration/DNS Enumeration",
-    "Untitled",
     "Enumeration/SMTP Enumeration/SMTP.md",
     "Enumeration/SMTP Enumeration",
     "Enumeration/LDAP Enumeration/LDAP.md",
