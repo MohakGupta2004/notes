@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "edc148025f747ae6",
+        "id": "51f20fbb8b2fafa6",
         "type": "tabs",
         "children": [
           {
-            "id": "0b8ed18bf044b0d2",
+            "id": "530fdadc894e6fbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subnets/Subnets.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Subnets"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a2b3abf8eae2d0e",
@@ -163,10 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8ed18bf044b0d2",
+  "active": "cfa3d23460d2086b",
   "lastOpenFiles": [
-    "Subnets/Subnets.md",
+    "Untitled",
+    "Linux",
+    "Screenshot From 2025-03-26 03-42-19.png",
+    "Pasted image 20250326034222.png",
+    "Networking/Pasted image 20250325134409.png",
+    "Networking/Introduction.md",
+    "System Hacking/Active Online Attack.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Networking",
+    "System Hacking/Introduction.md",
+    "2025-03-22.md",
+    "Enumeration/DNS Enumeration/DNS ENUMERATION.md",
+    "System Hacking",
+    "Enumeration/DNS Enumeration/DNS.md",
+    "Subnets/Subnets.md",
     "Subnets",
     "2024-10-31.md",
     "Untitled 1.canvas",
@@ -175,9 +185,7 @@
     "Enumeration/SNMP Enumeration/Pasted image 20241024010221.png",
     "Enumeration/NetBIOS Enumeration/NetBios enumeration.md",
     "Enumeration/NTP Enumeration/NTP.md",
-    "Enumeration/DNS Enumeration/DNS ENUMERATION.md",
     "Enumeration/NTP Enumeration",
-    "Enumeration/DNS Enumeration/DNS.md",
     "Enumeration/DNS Enumeration/Untitled",
     "Enumeration/DNS Enumeration",
     "Enumeration/SMTP Enumeration/SMTP.md",
@@ -188,8 +196,6 @@
     "2024-10-23.md",
     "Enumeration/LDAP Enumeration",
     "Enumeration/NetBIOS Enumeration/Pasted image 20241023005746.png",
-    "Enumeration/NetBIOS Enumeration/Pasted image 20241023005738.png",
-    "Enumeration/NetBIOS Enumeration",
-    "Enumeration"
+    "Enumeration/NetBIOS Enumeration/Pasted image 20241023005738.png"
   ]
 }
