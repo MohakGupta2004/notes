@@ -78,10 +78,10 @@ So,
 
 3. ![[Pasted image 20250618160250.png]] 
 => Eccentricity of every node is.
-E(A) = 3, E(B)=2, E(C)=2, E(D) = 2, E(E)=2, E(D)=2, E(F)=3, E(H)=3, E(G)=3
+E(A) = 3, E(B)=2, E(C)=2, E(D) = 2, E(E)=2, E(F)=3, E(H)=3, E(G)=3
 
 (a) Diameter = 3, Periphery = {A,G,H,F}
-(b) Radius = 2, Periphery = {B,C,D,E}
+(b) Radius = 2, center = {B,C,D,E}
 (c) Density = 
 2*E / n(n-1) = 2* x 11/ 8(8-1) = 22/56 = 11/28
 
@@ -118,7 +118,7 @@ r = 3,2
 
 a<sub>n</sub>  = A (3)<sup>n</sup>+ B (2)<sup>n</sup>
 
-a<sub>0</sub> = A+B=0
+a<sub>0</sub> = A+B=0 => B = -A
 a<sub>1</sub> = 3A+2B
 => a<sub>1</sub> = 3A-2A = A
 A = 12
@@ -143,10 +143,10 @@ ii) Using the above relationship, prove that K<sub>5</sub> is nonplanar
 iii) Find out the maximum number of edges in a simple connected planar graph with 15 vertices?
 
 => i) From Eular's formula we know, 
-	n + e - f = 2, where n = vertices, e = edges, f = faces.
+	n - e + f = 2, where n = vertices, e = edges, f = faces.
 	 f = 2-n+e
 	In simple planar graph, each face have at least 3 edges that's why,
-		2e  <= 3f
+		2e  >= 3f
 	=>  f <= 2e/3
 	=> 2-n+e <=2e/3
 	=> 6 - 3n + 3e <=2e
