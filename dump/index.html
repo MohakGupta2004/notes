@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href=/resources/labheader/css/academyLabHeader.css rel=stylesheet>
+        <link href=/resources/css/labsBlog.css rel=stylesheet>
+        <title>DOM XSS in innerHTML sink using source location.search</title>
+    </head>
+    <body>
+        <script src="/resources/labheader/js/labHeader.js"></script>
+        <div id="academyLabHeader">
+            <section class='academyLabBanner'>
+                <div class=container>
+                    <div class=logo></div>
+                        <div class=title-container>
+                            <h2>DOM XSS in <code>innerHTML</code> sink using source <code>location.search</code></h2>
+                            <a class=link-back href='https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-innerhtml-sink'>
+                                Back&nbsp;to&nbsp;lab&nbsp;description&nbsp;
+                                <svg version=1.1 id=Layer_1 xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x=0px y=0px viewBox='0 0 28 30' enable-background='new 0 0 28 30' xml:space=preserve title=back-arrow>
+                                    <g>
+                                        <polygon points='1.4,0 0,1.2 12.6,15 0,28.8 1.4,30 15.1,15'></polygon>
+                                        <polygon points='14.3,0 12.9,1.2 25.6,15 12.9,28.8 14.3,30 28,15'></polygon>
+                                    </g>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class='widgetcontainer-lab-status is-notsolved'>
+                            <span>LAB</span>
+                            <p>Not solved</p>
+                            <span class=lab-status-icon></span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div theme="blog">
+            <section class="maincontainer">
+                <div class="container is-page">
+                    <header class="navigation-header">
+                        <section class="top-links">
+                            <a href=/>Home</a><p>|</p>
+                        </section>
+                    </header>
+                    <header class="notification-header">
+                    </header>
+                    <section class="blog-header">
+                        <img src="/resources/images/blog.svg">
+                    </section>
+                    <section class=search>
+                        <form action=/ method=GET>
+                            <input type=text placeholder='Search the blog...' name=search>
+                            <button type=submit class=button>Search</button>
+                        </form>
+                    </section>
+                    <section class="blog-list">
+                        <div class="blog-post">
+                        <a href="/post?postId=5"><img src="/image/blog/posts/48.jpg"></a>
+                        <h2>Look No Hands - The Game Plays Itself</h2>
+                        <p>I was so fed up with my husband always sitting in front of the television playing his silly games, I did something about it. I came up with an idea that would revolutionize game playing in the future. I wrote...</p>
+                        <a class="button is-small" href="/post?postId=5">View post</a>
+                        </div>
+                        <div class="blog-post">
+                        <a href="/post?postId=3"><img src="/image/blog/posts/28.jpg"></a>
+                        <h2>The history of swigging port</h2>
+                        <p>The 'discovery' of port dates back to the late Seventeenth Century when British sailors stumbled upon the drink in Portugal and then stumbled even more slowly home with several more bottles. It has been said since then that Portugal is...</p>
+                        <a class="button is-small" href="/post?postId=3">View post</a>
+                        </div>
+                        <div class="blog-post">
+                        <a href="/post?postId=1"><img src="/image/blog/posts/30.jpg"></a>
+                        <h2>Benefits of Travelling</h2>
+                        <p>Travelling is such an emotive word. It can excite some, scare others and conjure images of grubby millennials backpacking around the far reaches of the earth for a few. It is however, a word that can mean whatever it is...</p>
+                        <a class="button is-small" href="/post?postId=1">View post</a>
+                        </div>
+                        <div class="blog-post">
+                        <a href="/post?postId=2"><img src="/image/blog/posts/33.jpg"></a>
+                        <h2>Wellness</h2>
+                        <p>Of all the tough and laborious tasks in life, looking after ourselves is possibly one of the most tedious. Wherever you are in the world right now, it seems there is an ever-growing trend of people aiming to take better...</p>
+                        <a class="button is-small" href="/post?postId=2">View post</a>
+                        </div>
+                        <div class="blog-post">
+                        <a href="/post?postId=4"><img src="/image/blog/posts/41.jpg"></a>
+                        <h2>The Hating Dating App</h2>
+                        <p>I saw a headline the other day about the launch of a dating app that matches people based on the things they hate. I didn't read the article as I wanted to work out for myself how that could possibly...</p>
+                        <a class="button is-small" href="/post?postId=4">View post</a>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <div class="footer-wrapper">
+            </div>
+        </div>
+    </body>
+</html>
