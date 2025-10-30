@@ -45,6 +45,8 @@
 #### Cardinality
 Cardinality is the number of times that denotes that an entity is participating into a relationship with another entity. In tables the no. of rows represents the cardinality.
 
+**Cardinality ratio**: Cardinality ratio or Cardinality mapping, which represents the mapping of one entity set to another entity set.
+
 
 
 
