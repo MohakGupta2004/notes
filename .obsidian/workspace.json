@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/CPU Scheduling Algorithms.md",
+                "file": "Operating System/Process State Transition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU Scheduling Algorithms"
+              "title": "Process State Transition"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a2b3abf8eae2d0e",
@@ -181,6 +180,12 @@
   },
   "active": "8873aa6f81fc263c",
   "lastOpenFiles": [
+    "Pasted image 20251031004206.png",
+    "Operating System/CPU Scheduling Algorithms.md",
+    "Operating System/Process State Transition.md",
+    "Pasted image 20251031001853.png",
+    "Pasted image 20251031000222.png",
+    "Pasted image 20251030235606.png",
     "DBMS/DBMS OFFICIAL.md",
     "DBMS Assignment - 1.md",
     "DBMS",
@@ -192,10 +197,6 @@
     "linux/Pasted image 20250802232043.png",
     "linux/Pasted image 20250802231948.png",
     "linux/Pasted image 20250802231622.png",
-    "linux/Pasted image 20250802231517.png",
-    "linux/Pasted image 20250802231133.png",
-    "linux/bash/output_helloworld.png",
-    "Operating System/CPU Scheduling Algorithms.md",
     "Operating System",
     "Artificial Intelligence/How LLM'S WORK.md",
     "OOPS/1_whatIsOops.md",
