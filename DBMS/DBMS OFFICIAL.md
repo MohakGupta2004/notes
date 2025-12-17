@@ -46,21 +46,27 @@
 Cardinality is the number of times that denotes that an entity is participating into a relationship with another entity. In tables the no. of rows represents the cardinality.
 
 **Cardinality ratio**: Cardinality ratio or Cardinality mapping, which represents the mapping of one entity set to another entity set.
+example: 1:1, M:1.
 
+Types of Cardinality
+- **One to one:** relation where set1 and set2 has one to one mapping. For all items in set1 only have one item in set2.
+- **Many to one:** where set1 multiple small sets can make relationship with a single entity in set2.
+- **One to many**: Where set1 single entity can have a set of multiple entities in set2.
+- **Many to many**: multiple entity of set1 can have relation with multiple entity of set2
 
+#### Generalization
+In generalization of an entity refers to when a lower level entity forms a higher level entity. When two or more separate entity falls under a single entity is when we call it generalization. 
+Example: Person => Student, Teacher. We're deriving this from Student and Teacher to Person so we can call this bottom up approach as we're going from bottom to up.
 
+#### Specialization
+Just opposite of generalization. Where in generalization we derive the parent class from the subclass. Here we derive the child class from the parent class.
 
+#### Reduction of ER diagram
+Reduction of ER diagram means we're have to deduce the table from an ER diagram.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Let's learn it via a question.
+Q.
+![[Pasted image 20251102124345.png]]
+=> 
+![[Pasted image 20251102180416.png]]
 

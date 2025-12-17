@@ -1,3 +1,5 @@
 {
-  "textFontFamily": "Source Code Pro,Courier New"
+  "textFontFamily": "Source Code Pro,Courier New",
+  "accentColor": "#8349ca",
+  "theme": "obsidian"
 }

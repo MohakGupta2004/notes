@@ -14,3 +14,4 @@ Let's start from the very first block which you can see is  -
 - Suspended Ready: So if we want to execute that I/O bound task again then it goes to Suspended ready (fancy way of saying the same hard drive and LTS pull). 
 	 But here is a twist, what if an important process or high priority process comes into the picture then what happends? The CPU sends the CPU bound process again to Ready state but what if the Ready queue is already full then the MTS again puts that to suspended ready state.
 
+	
