@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d32c72b03c26bc56",
+        "id": "9c819cd66c00e6cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f340429bcb524195",
+            "id": "f3b75ba2da48ac9c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Operating System/Deadlock.md"
+                "file": "Operating System/Non contiguous memory allocation.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Deadlock"
+              "title": "Non contiguous memory allocation"
+            }
+          },
+          {
+            "id": "2599c6249d87ab97",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Operating System/Contigious memory allocation.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Contigious memory allocation"
             }
           }
         ]
@@ -76,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a2b3abf8eae2d0e",
@@ -143,6 +156,20 @@
               "icon": "lucide-list",
               "title": "Outline of LDAP"
             }
+          },
+          {
+            "id": "c4949ddfc2058008",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -163,19 +190,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cfa3d23460d2086b",
+  "active": "f3b75ba2da48ac9c",
   "lastOpenFiles": [
+    "Operating System/Contigious memory allocation.md",
+    "Operating System/Non contiguous memory allocation.md",
     "Operating System/Deadlock.md",
-    "Operating System/Untitled.md",
     "Operating System/Dining philosophers problem.md",
-    "Operating System/Readers & Writers problem.md",
-    "Excalidraw/Drawing 2025-12-17 17.53.36.excalidraw.md",
-    "Operating System/Semaphore.md",
-    "DBMS/Practice relational algebra.md",
-    "DBMS/Untitled.md",
-    "DBMS/Relational algebra.md",
     "Operating System/Process synchronization.md",
     "Operating System/Round Robin Algorithm.md",
+    "Operating System/Priority Inversion.md",
+    "Operating System/Semaphore.md",
+    "DAA/Minimal cost spanning tree.md",
+    "DAA/Topological sort.md",
+    "DAA/DFS & BFS.md",
+    "DAA/Recurrence relation.md",
+    "Pasted Image 20251226031626_435.png",
+    "DAA/Factorial.md",
+    "Pasted Image 20251222004715_808.png",
+    "Operating System/Readers & Writers problem.md",
+    "Pasted Image 20251221121017_698.png",
+    "Pasted Image 20251221120814_017.png",
+    "Pasted Image 20251220140452_890.png",
+    "Pasted Image 20251220133833_006.png",
+    "Pasted Image 20251220133821_504.png",
+    "Pasted Image 20251220124451_072.png",
+    "Pasted Image 20251219153908_554.png",
+    "Pasted Image 20251219152843_427.png",
+    "DAA",
+    "DBMS/Relational algebra.md",
+    "Operating System/Untitled.md",
+    "Excalidraw/Drawing 2025-12-17 17.53.36.excalidraw.md",
+    "DBMS/Practice relational algebra.md",
+    "DBMS/Untitled.md",
     "Operating System/Shortest Remaining Time first.md",
     "Operating System/Shortest Job First.md",
     "Operating System/Process State Transition.md",
@@ -183,25 +229,7 @@
     "DBMS/SQL.md",
     "DBMS/Normalization.md",
     "DBMS/Indexing.md",
-    "Operating System/Drawing 2025-12-13 17.05.09.excalidraw.md",
-    "Operating System/Priority Inversion.md",
-    "Operating System/Priority Scheduling.md",
-    "Operating System/CPU Scheduling Algorithms.md",
-    "Operating System/Drawing 2025-12-10 01.20.03.excalidraw.md",
-    "README.md",
-    "Pasted image 20250929212427.png",
-    "Pasted image 20251031001853.png",
-    "DBMS Assignment - 1.md",
-    "Murf AI Falcon session.md",
     "Excalidraw",
-    "Pasted image 20251203002809.png",
-    "Pasted image 20251203001250.png",
-    "Pasted image 20251203001246.png",
-    "Pasted image 20251202215530.png",
-    "Pasted image 20251202213710.png",
-    "Pasted image 20251202205920.png",
-    "Pasted image 20251202205514.png",
-    "Pasted image 20251202205310.png",
     "Murf ai",
     "DBMS",
     "Operating System",
@@ -211,7 +239,6 @@
     "System Hacking",
     "Subnets",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Enumeration/NTP Enumeration"
+    "Untitled.canvas"
   ]
 }
