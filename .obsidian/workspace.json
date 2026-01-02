@@ -20,18 +20,43 @@
             }
           },
           {
+            "id": "15ce3c1c3c40d29e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Compiler Design/LL(1).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "LL(1)"
+            }
+          },
+          {
             "id": "2599c6249d87ab97",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Operating System/Contigious memory allocation.md"
+                "file": "Compiler Design/First & follow.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Contigious memory allocation"
+              "title": "First & follow"
+            }
+          },
+          {
+            "id": "59cbbffba5284a31",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DAA/DFS & BFS.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DFS & BFS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a2b3abf8eae2d0e",
@@ -190,10 +214,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3b75ba2da48ac9c",
+  "active": "15ce3c1c3c40d29e",
   "lastOpenFiles": [
+    "Compiler Design/First & follow.md",
+    "Compiler Design/LL(1).md",
+    "DAA/DFS & BFS.md",
     "Operating System/Contigious memory allocation.md",
+    "Pasted Image 20260102170501_382.png",
+    "Untitled.md",
+    "Pasted Image 20260102103113_011.png",
+    "Pasted Image 20260102102432_450.png",
+    "Pasted Image 20260102101759_919.png",
+    "Pasted Image 20260102100811_648.png",
     "Operating System/Non contiguous memory allocation.md",
+    "Compiler Design",
     "Operating System/Deadlock.md",
     "Operating System/Dining philosophers problem.md",
     "Operating System/Process synchronization.md",
@@ -202,7 +236,6 @@
     "Operating System/Semaphore.md",
     "DAA/Minimal cost spanning tree.md",
     "DAA/Topological sort.md",
-    "DAA/DFS & BFS.md",
     "DAA/Recurrence relation.md",
     "Pasted Image 20251226031626_435.png",
     "DAA/Factorial.md",
@@ -211,11 +244,6 @@
     "Pasted Image 20251221121017_698.png",
     "Pasted Image 20251221120814_017.png",
     "Pasted Image 20251220140452_890.png",
-    "Pasted Image 20251220133833_006.png",
-    "Pasted Image 20251220133821_504.png",
-    "Pasted Image 20251220124451_072.png",
-    "Pasted Image 20251219153908_554.png",
-    "Pasted Image 20251219152843_427.png",
     "DAA",
     "DBMS/Relational algebra.md",
     "Operating System/Untitled.md",
@@ -225,10 +253,6 @@
     "Operating System/Shortest Remaining Time first.md",
     "Operating System/Shortest Job First.md",
     "Operating System/Process State Transition.md",
-    "DBMS/DBMS OFFICIAL.md",
-    "DBMS/SQL.md",
-    "DBMS/Normalization.md",
-    "DBMS/Indexing.md",
     "Excalidraw",
     "Murf ai",
     "DBMS",
@@ -237,7 +261,6 @@
     "Linux",
     "Networking",
     "System Hacking",
-    "Subnets",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
