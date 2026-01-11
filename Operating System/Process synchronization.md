@@ -5,7 +5,7 @@ and there are certain conditions for it.
 conditions are : 
 	 #### primary
 	1. Mutual exclusion.
-	2. Progress.
+	2. Progproducerress.
 	 #### Secondary
 	3. Bounded wait.
 	4. No assumption related to hardware speed.

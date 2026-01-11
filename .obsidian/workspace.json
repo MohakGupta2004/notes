@@ -4,59 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "b83c5fc9fb5e9194",
+        "id": "8192920f81b61c85",
         "type": "tabs",
         "children": [
           {
-            "id": "d879bab6bce0fe4d",
+            "id": "41fdbe86e0bf5ec1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Automata/Drawing 2026-01-03 19.25.49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-03 19.25.49.excalidraw"
-            }
-          },
-          {
-            "id": "7b9297389a3f0c89",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "DAA/Solution.md"
+                "file": "DBMS/Solution.md"
               },
               "icon": "excalidraw-icon",
               "title": "Solution"
             }
           },
           {
-            "id": "be9eac24e8d756b7",
+            "id": "481d08110e362e45",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Compiler Design/operator precednse.md"
+                "file": "DBMS/Relational algebra.md"
               },
               "icon": "excalidraw-icon",
-              "title": "operator precednse"
+              "title": "Relational algebra"
             }
           },
           {
-            "id": "23742b550bdef645",
+            "id": "8cfe2d3c1c8351bf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Automata/Drawing 2026-01-03 19.25.49.excalidraw.md"
+                "file": "DBMS/Relational algebra.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-03 19.25.49.excalidraw"
+              "title": "Relational algebra"
+            }
+          },
+          {
+            "id": "7cc865745fb58a01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DBMS/Solution.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Solution"
+            }
+          },
+          {
+            "id": "b57f3f5080e2fb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a2b3abf8eae2d0e",
@@ -215,46 +228,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "23742b550bdef645",
+  "active": "b57f3f5080e2fb93",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Automata/Drawing 2026-01-03 19.25.49.excalidraw.md",
-    "Pasted Image 20260104184537_692.png",
-    "Compiler Design/SLR(1).md",
-    "Pasted Image 20260104165437_186.png",
-    "Compiler Design/LL(1).md",
-    "Artificial Intelligence/How LLM'S WORK.md",
-    "Pasted Image 20260104140829_773.png",
-    "Compiler Design/shift reduce parser.md",
-    "Compiler Design/Drawing 2026-01-04 13.50.21.excalidraw.md",
-    "Compiler Design/operator precednse.md",
-    "Pasted Image 20260104120241_284.png",
-    "Pasted Image 20260104120007_533.png",
-    "DAA/Solution.md",
-    "Pasted Image 20260104040551_154.png",
-    "Pasted Image 20260104035207_105.png",
-    "Pasted Image 20260104033328_910.png",
-    "Pasted Image 20260104031256_178.png",
-    "Automata",
-    "DAA/DFS & BFS.md",
-    "Compiler Design/First & follow.md",
-    "Operating System/CPU Scheduling Algorithms.md",
-    "Operating System/Round Robin Algorithm.md",
-    "Operating System/Deadlock.md",
+    "DBMS/Normalizaton.md",
+    "Pasted Image 20260111022855_548.png",
+    "todo.md",
+    "DBMS/Solution.md",
+    "Pasted Image 20260110205356_694.png",
+    "DBMS/Relational algebra.md",
     "Operating System/Shortest Remaining Time first.md",
+    "Pasted Image 20260110155020_452.png",
+    "Pasted Image 20260110154846_733.png",
+    "Pasted Image 20260110041939_737.png",
+    "Pasted Image 20260110041805_439.png",
+    "Pasted Image 20260110041525_566.png",
+    "Pasted Image 20260110035150_996.png",
+    "Pasted Image 20260110033302_291.png",
+    "Pasted Image 20260110032818_829.png",
     "Operating System/Shortest Job First.md",
     "Operating System/Semaphore.md",
-    "Pasted Image 20260103182523_881.png",
-    "Operating System/Contigious memory allocation.md",
-    "Untitled.md",
-    "Operating System/Non contiguous memory allocation.md",
-    "Compiler Design",
-    "Operating System/Dining philosophers problem.md",
-    "Operating System/Process synchronization.md",
+    "Operating System/Round Robin Algorithm.md",
+    "Operating System/Readers & Writers problem.md",
+    "Operating System/Process State Transition.md",
+    "Operating System/Priority Scheduling.md",
     "Operating System/Priority Inversion.md",
-    "DAA/Minimal cost spanning tree.md",
-    "DAA/Topological sort.md",
-    "DAA/Recurrence relation.md",
+    "Operating System/Non contiguous memory allocation.md",
+    "Operating System/Dining philosophers problem.md",
+    "Operating System/Contigious memory allocation.md",
+    "Operating System/CPU Scheduling Algorithms.md",
+    "DBMS/Untitled.canvas",
+    "DBMS/Indexing.md",
+    "DBMS/Normalization.md",
+    "DBMS/DBMS OFFICIAL.md",
+    "DAA/DFS & BFS.md",
+    "Operating System/Process synchronization.md",
+    "Operating System/Producer consumer problem.md",
+    "Operating System/Deadlock.md",
+    "Operating System/Drawing 2026-01-06 20.33.58.excalidraw.md",
+    "Todo.md",
+    "Automata",
+    "Compiler Design",
     "DAA",
     "Excalidraw",
     "Murf ai",
