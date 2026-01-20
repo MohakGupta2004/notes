@@ -78,9 +78,57 @@
               "icon": "excalidraw-icon",
               "title": "Parser"
             }
+          },
+          {
+            "id": "93a3589f425affec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Compiler Design/Topdown vs Bottom-up.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Topdown vs Bottom-up"
+            }
+          },
+          {
+            "id": "6ea092702448be6f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Compiler Design/Contol flow graph.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Contol flow graph"
+            }
+          },
+          {
+            "id": "c526818dc34dc077",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Compiler Design/Peephole optimization.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Peephole optimization"
+            }
+          },
+          {
+            "id": "9e898492469857ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Compiler Design/conflicts.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "conflicts"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -238,30 +286,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91ab93e694c91de3",
+  "active": "9e898492469857ed",
   "lastOpenFiles": [
-    "Pasted Image 20260118035434_569.png",
-    "Compiler Design/Lexical Analysis.md",
-    "Compiler Design/Parser.md",
-    "Pasted Image 20260118035028_744.png",
-    "Pasted Image 20260118034612_901.png",
-    "Pasted Image 20260118034107_837.png",
-    "Pasted Image 20260118034017_511.png",
-    "Pasted Image 20260118033937_915.png",
-    "Pasted Image 20260118033915_256.png",
-    "Pasted Image 20260118033905_650.png",
-    "Pasted Image 20260118033809_452.png",
-    "Pasted Image 20260118033758_911.png",
-    "Pasted Image 20260118033553_361.png",
-    "Compiler Design/Drawing 2026-01-18 03.01.29.excalidraw.md",
-    "Compiler Design/SLR(1).md",
+    "Compiler Design/shift reduce parser.md",
     "Compiler Design/SDT.md",
-    "Automata/Drawing 2026-01-03 19.25.49.excalidraw.md",
-    "Compiler Design/Contol flow graph.md",
     "Compiler Design/Peephole optimization.md",
-    "Compiler Design/Drawing 2026-01-04 13.50.21.excalidraw.md",
-    "Compiler Design/operator precednse.md",
+    "Compiler Design/conflicts.md",
+    "Pasted Image 20260119194145_199.png",
+    "Pasted Image 20260119194117_003.png",
+    "Compiler Design/SLR(1).md",
     "Compiler Design/LL(1).md",
+    "Compiler Design/First & follow.md",
+    "Excalidraw/Drawing 2026-01-18 20.41.51.excalidraw.md",
+    "Compiler Design/Left recursion and factoring.md",
+    "Pasted Image 20260118202846_866.png",
+    "Pasted Image 20260118202610_478.png",
+    "Pasted Image 20260118202244_194.png",
+    "Pasted Image 20260118202144_430.png",
+    "Pasted Image 20260118201946_465.png",
+    "Pasted Image 20260118201721_570.png",
+    "Pasted Image 20260118201501_486.png",
+    "Pasted Image 20260118201210_139.png",
+    "Compiler Design/Contol flow graph.md",
+    "Compiler Design/Drawing 2026-01-04 13.50.21.excalidraw.md",
+    "Compiler Design/LMD,RMD.md",
+    "Compiler Design/Topdown vs Bottom-up.md",
+    "Compiler Design/Parser.md",
+    "Compiler Design/Lexical Analysis.md",
+    "Compiler Design/Drawing 2026-01-18 03.01.29.excalidraw.md",
+    "Automata/Drawing 2026-01-03 19.25.49.excalidraw.md",
+    "Compiler Design/operator precednse.md",
     "DAA/Solution.md",
     "DAA/Recurrence relation.md",
     "DAA/Minimal cost spanning tree.md",
@@ -270,12 +324,6 @@
     "Operating System/Producer consumer problem.md",
     "Operating System/Shortest Remaining Time first.md",
     "Operating System/Shortest Job First.md",
-    "Operating System/Semaphore.md",
-    "Operating System/Round Robin Algorithm.md",
-    "Operating System/Readers & Writers problem.md",
-    "Operating System/Priority Scheduling.md",
-    "Operating System/Priority Inversion.md",
-    "Operating System/Process synchronization.md",
     "DBMS/Untitled.canvas",
     "Automata",
     "Compiler Design",
